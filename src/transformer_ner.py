@@ -9,7 +9,7 @@ def load_transformer_model():
     return pipeline(
         "token-classification",
         model=MODEL_NAME,
-        aggregation_strategy="simple",
+        aggregation_strategy="max",
     )
 
 

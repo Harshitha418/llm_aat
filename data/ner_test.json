@@ -2,114 +2,256 @@
   {
     "text": "Sundar Pichai leads Google in California.",
     "entities": [
-      {"start": 0, "end": 13, "label": "PER"},
-      {"start": 20, "end": 26, "label": "ORG"},
-      {"start": 30, "end": 40, "label": "LOC"}
+      {
+        "start": 0,
+        "end": 13,
+        "label": "PER"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "ORG"
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "Microsoft was founded by Bill Gates and Paul Allen.",
     "entities": [
-      {"start": 0, "end": 9, "label": "ORG"},
-      {"start": 26, "end": 36, "label": "PER"},
-      {"start": 41, "end": 51, "label": "PER"}
+      {
+        "start": 0,
+        "end": 9,
+        "label": "ORG"
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "label": "PER"
+      },
+      {
+        "start": 40,
+        "end": 50,
+        "label": "PER"
+      }
     ]
   },
   {
-  "text": "Apple is headquartered in Cupertino.",
-  "entities": [
-    {"start": 0, "end": 5, "label": "ORG"},
-    {"start": 26, "end": 35, "label": "LOC"}
-  ]
-},
+    "text": "Apple is headquartered in Cupertino.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "ORG"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "LOC"
+      }
+    ]
+  },
   {
     "text": "Narendra Modi visited Bengaluru on Monday.",
     "entities": [
-      {"start": 0, "end": 13, "label": "PER"},
-      {"start": 22, "end": 30, "label": "LOC"},
-      {"start": 34, "end": 40, "label": "MISC"}
+      {
+        "start": 0,
+        "end": 13,
+        "label": "PER"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "Amazon opened a new office in London.",
     "entities": [
-      {"start": 0, "end": 6, "label": "ORG"},
-      {"start": 31, "end": 37, "label": "LOC"}
+      {
+        "start": 0,
+        "end": 6,
+        "label": "ORG"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "Barack Obama was born in Hawaii.",
     "entities": [
-      {"start": 0, "end": 12, "label": "PER"},
-      {"start": 26, "end": 32, "label": "LOC"}
+      {
+        "start": 0,
+        "end": 12,
+        "label": "PER"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "Tesla CEO Elon Musk spoke in Paris.",
     "entities": [
-      {"start": 0, "end": 5, "label": "ORG"},
-      {"start": 10, "end": 19, "label": "PER"},
-      {"start": 30, "end": 35, "label": "LOC"}
+      {
+        "start": 0,
+        "end": 5,
+        "label": "ORG"
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "label": "PER"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "The United Nations is based in New York.",
     "entities": [
-      {"start": 4, "end": 18, "label": "ORG"},
-      {"start": 31, "end": 39, "label": "LOC"}
+      {
+        "start": 4,
+        "end": 18,
+        "label": "ORG"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "Sachin Tendulkar played cricket in Mumbai.",
     "entities": [
-      {"start": 0, "end": 17, "label": "PER"},
-      {"start": 36, "end": 42, "label": "LOC"}
+      {
+        "start": 0,
+        "end": 16,
+        "label": "PER"
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "OpenAI released ChatGPT in November.",
     "entities": [
-      {"start": 0, "end": 6, "label": "ORG"},
-      {"start": 15, "end": 22, "label": "MISC"},
-      {"start": 26, "end": 34, "label": "MISC"}
+      {
+        "start": 0,
+        "end": 6,
+        "label": "ORG"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "MISC"
+      }
     ]
   },
   {
     "text": "The Eiffel Tower is located in France.",
     "entities": [
-      {"start": 4, "end": 16, "label": "LOC"},
-      {"start": 31, "end": 37, "label": "LOC"}
+      {
+        "start": 4,
+        "end": 16,
+        "label": "LOC"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "Infosys was established in Bengaluru, India.",
     "entities": [
-      {"start": 0, "end": 7, "label": "ORG"},
-      {"start": 28, "end": 36, "label": "LOC"},
-      {"start": 38, "end": 43, "label": "LOC"}
+      {
+        "start": 0,
+        "end": 7,
+        "label": "ORG"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "LOC"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "Cristiano Ronaldo joined Al Nassr in Saudi Arabia.",
     "entities": [
-      {"start": 0, "end": 17, "label": "PER"},
-      {"start": 24, "end": 32, "label": "ORG"},
-      {"start": 36, "end": 48, "label": "LOC"}
+      {
+        "start": 0,
+        "end": 17,
+        "label": "PER"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "ORG"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "The European Union has offices in Brussels.",
     "entities": [
-      {"start": 4, "end": 18, "label": "ORG"},
-      {"start": 34, "end": 42, "label": "LOC"}
+      {
+        "start": 4,
+        "end": 18,
+        "label": "ORG"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "LOC"
+      }
     ]
   },
   {
     "text": "Ratan Tata founded the Tata Group in India.",
     "entities": [
-      {"start": 0, "end": 10, "label": "PER"},
-      {"start": 26, "end": 36, "label": "ORG"},
-      {"start": 37, "end": 42, "label": "LOC"}
+      {
+        "start": 0,
+        "end": 10,
+        "label": "PER"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "ORG"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "LOC"
+      }
     ]
   }
 ]
